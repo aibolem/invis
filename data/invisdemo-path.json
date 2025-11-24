@@ -8,7 +8,7 @@
 			"file":"data/rnaworld.frm"
 			},
 		"numOfPopulations":3,
-		"adj":"data/all.adj20",
+		"adj":"data/all.adj2",
 		"populations": [
 		{
 			"name":"preselection",
